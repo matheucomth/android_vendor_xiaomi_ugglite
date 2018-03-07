@@ -2697,7 +2697,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/lib64/soundfx/libqcvirt.so:system/vendor/lib64/soundfx/libqcvirt.so \
     vendor/xiaomi/ugglite/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
     vendor/xiaomi/ugglite/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
-    vendor/xiaomi/ugglite/proprietary/vendor/qcril.db:system/vendor/qcril.db
+    vendor/xiaomi/ugglite/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+    vendor/xiaomi/ugglite/proprietary/bin/vm_bms:system/bin/vm_bms \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
