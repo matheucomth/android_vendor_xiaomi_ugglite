@@ -2700,6 +2700,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/xiaomi/ugglite/proprietary/bin/vm_bms:system/bin/vm_bms \
 
+
 PRODUCT_PACKAGES += \
     libtime_genoff \
     libts_detected_face_hal \
@@ -2708,6 +2709,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     embms \
+    fastdormancy \
     shutdownlistener \
     CNEService \
     QtiTetherService \
