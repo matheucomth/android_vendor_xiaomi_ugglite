@@ -2699,6 +2699,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
     vendor/xiaomi/ugglite/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/xiaomi/ugglite/proprietary/bin/vm_bms:system/bin/vm_bms \
+    vendor/xiaomi/ugglite/proprietary/lib/libMiCameraHal.so:system/lib/libMiCameraHal.so \
+    vendor/xiaomi/ugglite/proprietary/vendor/bin/hbtp_daemon:system/vendor/bin/hbtp_daemon 
 
 
 PRODUCT_PACKAGES += \
